@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tyistyler?tab=repositories](https://github.com/tyistyler?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/tyistyler?tab=repositories)
 
-- 📝 I regularly write articles on [https://blog.csdn.net/tailonh?spm=1000.2115.3001.5113](https://blog.csdn.net/tailonh?spm=1000.2115.3001.5113)
+- 📝 I regularly write articles on [here](https://blog.csdn.net/tailonh?spm=1000.2115.3001.5113)
 
 - 💬 Ask me about **NLP**
 
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyistyler&show_icons=true&locale=en&layout=compact" alt="tyistyler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyistyler&show_icons=true&locale=en" alt="tyistyler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyistyler&show_icons=true&locale=en&theme=dark" alt="tyistyler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyistyler&" alt="tyistyler" /></p>
 
