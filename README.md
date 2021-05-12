@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TianYu</h1>
+<h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">A graduate student from SAU.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyistyler&label=Profile%20views&color=0e75b6&style=flat" alt="tyistyler" /> 
